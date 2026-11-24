@@ -61,6 +61,7 @@ The university has decided to use **server virtualization**. It will move all ap
 | Number of VMs | 10 |
 | Each VM | 4 virtual CPU (vCPU) cores, 24 GB RAM |
 
+<!--
 ### Basic terms used in this assignment
 
 | Term | Simple meaning |
@@ -70,6 +71,7 @@ The university has decided to use **server virtualization**. It will move all ap
 | **Hypervisor** | Software that creates and runs VMs and shares the host's CPU, RAM and storage among them. Examples: VMware ESXi, Microsoft Hyper-V, KVM. |
 | **Virtual Machine (VM)** | A virtual computer with its own operating system and application, running on a host. |
 | **vCPU** | The virtual CPU given to a VM. The hypervisor runs it on the host's physical cores by sharing time. |
+-->
 
 ---
 
