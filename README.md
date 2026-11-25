@@ -29,7 +29,7 @@ Designation: ____________________<br>
 School of Computing Sciences
 </p>
 
-<p align="center">Date of Submission: ____________________</p>
+<p align="center">Date of Submission: 25-11-2026</p>
 
 <p align="center">
 <b>Department of Information Technology</b><br>
