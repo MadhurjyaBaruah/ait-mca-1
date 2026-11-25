@@ -6,7 +6,7 @@
 
 <p align="center">
 <b>Subject:</b> AIT<br>
-<b>Subject Code:</b> ____________________<br>
+<b>Subject Code:</b> CS2A524<br>
 <b>Assignment No.:</b> I (Scenario-Based Assignment)<br>
 <b>Scenario Attempted:</b> Scenario 1 – University Server Consolidation<br>
 <b>Semester:</b> 1<sup>st</sup>
@@ -25,7 +25,7 @@ Enrolment No.: CS26MCAGN014
 <p align="center">
 <i>Submitted to:</i><br>
 <b>DR. SIDDHARTHA ADHYAPOK</b><br>
-Designation: ____________________<br>
+
 School of Computing Sciences
 </p>
 
